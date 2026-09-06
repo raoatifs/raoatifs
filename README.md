@@ -22,6 +22,8 @@ My current research examines:
 🌐 Climate shocks, agricultural trade networks, and market adjustment
 📦 Trade, storage, and other mechanisms that may buffer agricultural production shocks
 🌡️ Climate adaptation and the response of agricultural markets to increasing weather extremes
+
+
 🧰 Methods & Tools
 
 I work with:
@@ -34,6 +36,8 @@ Fixed Effects Models
 PPML Gravity Models
 Climate and Trade Data Analysis
 Data Visualization
+
+
 🗂️ Data I Work With
 
 My research combines large agricultural, climate, disaster, and international trade datasets, including:
